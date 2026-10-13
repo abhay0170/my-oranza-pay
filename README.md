@@ -33,4 +33,4 @@ Open the site in Chrome on Android and tap **Install app** (or menu > Add to Hom
 
 Pay links look like `https://pay.myoranza.in/l/?am=499.00&tn=Bill%201042`. The customer page always pays the UPI ID set in `CONFIG` at the bottom of `l/index.html`.
 
-If you change `index.html` later, bump `CACHE` in `sw.js` (e.g. `v2`) so phones pick up the new version.
+
